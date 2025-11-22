@@ -1,0 +1,8 @@
+E:\DotNetC-\LearningCSharp\05-OOPs\bin\Debug\05-OOPs.exe.config
+E:\DotNetC-\LearningCSharp\05-OOPs\bin\Debug\05-OOPs.exe
+E:\DotNetC-\LearningCSharp\05-OOPs\bin\Debug\05-OOPs.pdb
+E:\DotNetC-\LearningCSharp\05-OOPs\obj\Debug\05-OOPs.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\05-OOPs\obj\Debug\05-OOPs.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\05-OOPs\obj\Debug\05-OOPs.exe
+E:\DotNetC-\LearningCSharp\05-OOPs\obj\Debug\05-OOPs.pdb
+E:\DotNetC-\LearningCSharp\05-OOPs\obj\Debug\05-OOPs.exe.config

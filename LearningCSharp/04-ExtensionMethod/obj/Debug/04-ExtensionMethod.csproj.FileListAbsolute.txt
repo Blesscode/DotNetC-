@@ -1,0 +1,7 @@
+E:\DotNetC-\LearningCSharp\04-ExtensionMethod\bin\Debug\04-ExtensionMethod.exe.config
+E:\DotNetC-\LearningCSharp\04-ExtensionMethod\bin\Debug\04-ExtensionMethod.exe
+E:\DotNetC-\LearningCSharp\04-ExtensionMethod\bin\Debug\04-ExtensionMethod.pdb
+E:\DotNetC-\LearningCSharp\04-ExtensionMethod\obj\Debug\04-ExtensionMethod.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\04-ExtensionMethod\obj\Debug\04-ExtensionMethod.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\04-ExtensionMethod\obj\Debug\04-ExtensionMethod.exe
+E:\DotNetC-\LearningCSharp\04-ExtensionMethod\obj\Debug\04-ExtensionMethod.pdb

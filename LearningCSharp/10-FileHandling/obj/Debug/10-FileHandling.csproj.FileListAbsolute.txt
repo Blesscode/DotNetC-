@@ -1,0 +1,8 @@
+E:\DotNetC-\LearningCSharp\10-FileHandling\obj\Debug\10-FileHandling.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\10-FileHandling\obj\Debug\10-FileHandling.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\10-FileHandling\bin\Debug\10-FileHandling.exe.config
+E:\DotNetC-\LearningCSharp\10-FileHandling\bin\Debug\10-FileHandling.exe
+E:\DotNetC-\LearningCSharp\10-FileHandling\bin\Debug\10-FileHandling.pdb
+E:\DotNetC-\LearningCSharp\10-FileHandling\obj\Debug\10-FileHandling.exe
+E:\DotNetC-\LearningCSharp\10-FileHandling\obj\Debug\10-FileHandling.pdb
+E:\DotNetC-\LearningCSharp\10-FileHandling\obj\Debug\10-FileHandling.exe.config

@@ -1,0 +1,7 @@
+E:\DotNetC-\LearningCSharp\12-Deconstructors\bin\Debug\12-Deconstructors.exe.config
+E:\DotNetC-\LearningCSharp\12-Deconstructors\bin\Debug\12-Deconstructors.exe
+E:\DotNetC-\LearningCSharp\12-Deconstructors\bin\Debug\12-Deconstructors.pdb
+E:\DotNetC-\LearningCSharp\12-Deconstructors\obj\Debug\12-Deconstructors.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\12-Deconstructors\obj\Debug\12-Deconstructors.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\12-Deconstructors\obj\Debug\12-Deconstructors.exe
+E:\DotNetC-\LearningCSharp\12-Deconstructors\obj\Debug\12-Deconstructors.pdb

@@ -1,0 +1,8 @@
+E:\DotNetC-\LearningCSharp\11-userDefineException\bin\Debug\11-userDefineException.exe.config
+E:\DotNetC-\LearningCSharp\11-userDefineException\bin\Debug\11-userDefineException.exe
+E:\DotNetC-\LearningCSharp\11-userDefineException\bin\Debug\11-userDefineException.pdb
+E:\DotNetC-\LearningCSharp\11-userDefineException\obj\Debug\11-userDefineException.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\11-userDefineException\obj\Debug\11-userDefineException.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\11-userDefineException\obj\Debug\11-userDefineException.exe
+E:\DotNetC-\LearningCSharp\11-userDefineException\obj\Debug\11-userDefineException.pdb
+E:\DotNetC-\LearningCSharp\11-userDefineException\obj\Debug\11-userDefineException.exe.config

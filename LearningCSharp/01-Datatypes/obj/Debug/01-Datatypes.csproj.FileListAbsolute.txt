@@ -1,0 +1,8 @@
+E:\DotNetC-\LearningCSharp\01-Datatypes\bin\Debug\01-Datatypes.exe.config
+E:\DotNetC-\LearningCSharp\01-Datatypes\bin\Debug\01-Datatypes.exe
+E:\DotNetC-\LearningCSharp\01-Datatypes\bin\Debug\01-Datatypes.pdb
+E:\DotNetC-\LearningCSharp\01-Datatypes\obj\Debug\01-Datatypes.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\01-Datatypes\obj\Debug\01-Datatypes.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\01-Datatypes\obj\Debug\01-Datatypes.exe
+E:\DotNetC-\LearningCSharp\01-Datatypes\obj\Debug\01-Datatypes.pdb
+E:\DotNetC-\LearningCSharp\01-Datatypes\obj\Debug\01-Datatypes.exe.config

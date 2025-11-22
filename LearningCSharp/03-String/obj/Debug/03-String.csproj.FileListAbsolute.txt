@@ -1,0 +1,8 @@
+E:\DotNetC-\LearningCSharp\03-String\bin\Debug\03-String.exe.config
+E:\DotNetC-\LearningCSharp\03-String\bin\Debug\03-String.exe
+E:\DotNetC-\LearningCSharp\03-String\bin\Debug\03-String.pdb
+E:\DotNetC-\LearningCSharp\03-String\obj\Debug\03-String.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\03-String\obj\Debug\03-String.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\03-String\obj\Debug\03-String.exe
+E:\DotNetC-\LearningCSharp\03-String\obj\Debug\03-String.pdb
+E:\DotNetC-\LearningCSharp\03-String\obj\Debug\03-String.exe.config

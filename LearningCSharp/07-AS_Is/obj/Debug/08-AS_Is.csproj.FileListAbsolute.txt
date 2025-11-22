@@ -1,0 +1,7 @@
+E:\DotNetC-\LearningCSharp\07-AS_Is\bin\Debug\07-AS_Is.exe.config
+E:\DotNetC-\LearningCSharp\07-AS_Is\bin\Debug\07-AS_Is.exe
+E:\DotNetC-\LearningCSharp\07-AS_Is\bin\Debug\07-AS_Is.pdb
+E:\DotNetC-\LearningCSharp\07-AS_Is\obj\Debug\08-AS_Is.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\07-AS_Is\obj\Debug\08-AS_Is.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\07-AS_Is\obj\Debug\07-AS_Is.exe
+E:\DotNetC-\LearningCSharp\07-AS_Is\obj\Debug\07-AS_Is.pdb
