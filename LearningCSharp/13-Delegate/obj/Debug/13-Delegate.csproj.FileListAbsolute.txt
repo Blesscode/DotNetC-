@@ -1,0 +1,8 @@
+E:\DotNetC-\LearningCSharp\13-Delegate\bin\Debug\13-Delegate.exe.config
+E:\DotNetC-\LearningCSharp\13-Delegate\bin\Debug\13-Delegate.exe
+E:\DotNetC-\LearningCSharp\13-Delegate\bin\Debug\13-Delegate.pdb
+E:\DotNetC-\LearningCSharp\13-Delegate\obj\Debug\13-Delegate.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\13-Delegate\obj\Debug\13-Delegate.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\13-Delegate\obj\Debug\13-Delegate.exe
+E:\DotNetC-\LearningCSharp\13-Delegate\obj\Debug\13-Delegate.pdb
+E:\DotNetC-\LearningCSharp\13-Delegate\obj\Debug\13-Delegate.exe.config

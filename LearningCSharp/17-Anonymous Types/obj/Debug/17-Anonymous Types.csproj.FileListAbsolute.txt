@@ -1,0 +1,7 @@
+E:\DotNetC-\LearningCSharp\17-Anonymous Types\bin\Debug\17-Anonymous Types.exe.config
+E:\DotNetC-\LearningCSharp\17-Anonymous Types\bin\Debug\17-Anonymous Types.exe
+E:\DotNetC-\LearningCSharp\17-Anonymous Types\bin\Debug\17-Anonymous Types.pdb
+E:\DotNetC-\LearningCSharp\17-Anonymous Types\obj\Debug\17-Anonymous Types.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\17-Anonymous Types\obj\Debug\17-Anonymous Types.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\17-Anonymous Types\obj\Debug\17-Anonymous Types.exe
+E:\DotNetC-\LearningCSharp\17-Anonymous Types\obj\Debug\17-Anonymous Types.pdb

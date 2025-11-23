@@ -3,27 +3,90 @@
   "WorkspaceRootPath": "E:\\DotNetC-\\LearningCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|E:\\DotNetC-\\LearningCSharp\\10-filehandling\\directoryhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|solutionrelative:10-filehandling\\directoryhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{638BF244-24A8-4C29-A018-7349413695A4}|20-Task Parallel Library (TPL)\\20-Task Parallel Library (TPL).csproj|e:\\dotnetc-\\learningcsharp\\20-task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638BF244-24A8-4C29-A018-7349413695A4}|20-Task Parallel Library (TPL)\\20-Task Parallel Library (TPL).csproj|solutionrelative:20-task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7B3EC9-8552-48E2-8062-791358ACD8E3}|12-Deconstructors\\12-Deconstructors.csproj|e:\\dotnetc-\\learningcsharp\\12-deconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C16AE3F6-4A8C-4AC8-A6A3-4114BCDF2061}|19-LINQ\\19-LINQ.csproj|e:\\dotnetc-\\learningcsharp\\19-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16AE3F6-4A8C-4AC8-A6A3-4114BCDF2061}|19-LINQ\\19-LINQ.csproj|solutionrelative:19-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16AE3F6-4A8C-4AC8-A6A3-4114BCDF2061}|19-LINQ\\19-LINQ.csproj|e:\\dotnetc-\\learningcsharp\\19-linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16AE3F6-4A8C-4AC8-A6A3-4114BCDF2061}|19-LINQ\\19-LINQ.csproj|solutionrelative:19-linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|e:\\dotnetc-\\learningcsharp\\18-partialclassandmethod\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|solutionrelative:18-partialclassandmethod\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|e:\\dotnetc-\\learningcsharp\\18-partialclassandmethod\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|solutionrelative:18-partialclassandmethod\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|18-PartialClassAndMethod||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|e:\\dotnetc-\\learningcsharp\\18-partialclassandmethod\\partialmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|solutionrelative:18-partialclassandmethod\\partialmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|e:\\dotnetc-\\learningcsharp\\18-partialclassandmethod\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|solutionrelative:18-partialclassandmethod\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|e:\\dotnetc-\\learningcsharp\\18-partialclassandmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|solutionrelative:18-partialclassandmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91193B64-3616-4CBD-8566-34830756637B}|17-Anonymous Types\\17-Anonymous Types.csproj|e:\\dotnetc-\\learningcsharp\\17-anonymous types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91193B64-3616-4CBD-8566-34830756637B}|17-Anonymous Types\\17-Anonymous Types.csproj|solutionrelative:17-anonymous types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08B49E5-8ED7-4F60-9C1B-3AF6856CE87C}|16-Expression bodied Members\\16-Expression bodied Members.csproj|e:\\dotnetc-\\learningcsharp\\16-expression bodied members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08B49E5-8ED7-4F60-9C1B-3AF6856CE87C}|16-Expression bodied Members\\16-Expression bodied Members.csproj|solutionrelative:16-expression bodied members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08B49E5-8ED7-4F60-9C1B-3AF6856CE87C}|16-Expression bodied Members\\16-Expression bodied Members.csproj|e:\\dotnetc-\\learningcsharp\\16-expression bodied members\\propertiesandconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08B49E5-8ED7-4F60-9C1B-3AF6856CE87C}|16-Expression bodied Members\\16-Expression bodied Members.csproj|solutionrelative:16-expression bodied members\\propertiesandconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943A41BF-E771-4C89-BBA3-BC8E21379E9B}|15-Lambda Expressions\\15-Lambda Expressions.csproj|e:\\dotnetc-\\learningcsharp\\15-lambda expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943A41BF-E771-4C89-BBA3-BC8E21379E9B}|15-Lambda Expressions\\15-Lambda Expressions.csproj|solutionrelative:15-lambda expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91EF7CC-43F9-44DD-B1FF-BDC769D647C2}|14-Anonymous Methods\\14-Anonymous Methods.csproj|e:\\dotnetc-\\learningcsharp\\14-anonymous methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91EF7CC-43F9-44DD-B1FF-BDC769D647C2}|14-Anonymous Methods\\14-Anonymous Methods.csproj|solutionrelative:14-anonymous methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9618C1-E21B-4C59-8E3E-9ADFAA7FD07F}|13-Delegate\\13-Delegate.csproj|e:\\dotnetc-\\learningcsharp\\13-delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9618C1-E21B-4C59-8E3E-9ADFAA7FD07F}|13-Delegate\\13-Delegate.csproj|solutionrelative:13-delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9618C1-E21B-4C59-8E3E-9ADFAA7FD07F}|13-Delegate\\13-Delegate.csproj|e:\\dotnetc-\\learningcsharp\\13-delegate\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9618C1-E21B-4C59-8E3E-9ADFAA7FD07F}|13-Delegate\\13-Delegate.csproj|solutionrelative:13-delegate\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7B3EC9-8552-48E2-8062-791358ACD8E3}|12-Deconstructors\\12-Deconstructors.csproj|E:\\DotNetC-\\LearningCSharp\\12-deconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7B3EC9-8552-48E2-8062-791358ACD8E3}|12-Deconstructors\\12-Deconstructors.csproj|solutionrelative:12-deconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA749D7-1C2A-46EB-B4FA-B807001FBCE3}|11-userDefineException\\11-userDefineException.csproj|e:\\dotnetc-\\learningcsharp\\11-userdefineexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|e:\\dotnetc-\\learningcsharp\\10-filehandling\\directoryhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|solutionrelative:10-filehandling\\directoryhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA749D7-1C2A-46EB-B4FA-B807001FBCE3}|11-userDefineException\\11-userDefineException.csproj|E:\\DotNetC-\\LearningCSharp\\11-userdefineexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA749D7-1C2A-46EB-B4FA-B807001FBCE3}|11-userDefineException\\11-userDefineException.csproj|solutionrelative:11-userdefineexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA749D7-1C2A-46EB-B4FA-B807001FBCE3}|11-userDefineException\\11-userDefineException.csproj|e:\\dotnetc-\\learningcsharp\\11-userdefineexception\\agetoosmallexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA749D7-1C2A-46EB-B4FA-B807001FBCE3}|11-userDefineException\\11-userDefineException.csproj|E:\\DotNetC-\\LearningCSharp\\11-userdefineexception\\agetoosmallexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA749D7-1C2A-46EB-B4FA-B807001FBCE3}|11-userDefineException\\11-userDefineException.csproj|solutionrelative:11-userdefineexception\\agetoosmallexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|e:\\dotnetc-\\learningcsharp\\10-filehandling\\fileshandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|E:\\DotNetC-\\LearningCSharp\\10-filehandling\\fileshandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|solutionrelative:10-filehandling\\fileshandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|e:\\dotnetc-\\learningcsharp\\10-filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|E:\\DotNetC-\\LearningCSharp\\10-filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BD86E6-D1F6-4D2C-A834-E22CE06E71A1}|10-FileHandling\\10-FileHandling.csproj|solutionrelative:10-filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -97,6 +160,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{8ED613CE-AE32-4423-9F82-60E29A1513DC}|01-Datatypes\\01-Datatypes.csproj|E:\\DotNetC-\\LearningCSharp\\01-datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ED613CE-AE32-4423-9F82-60E29A1513DC}|01-Datatypes\\01-Datatypes.csproj|solutionrelative:01-datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74095C9A-6AE9-4CF2-93EE-C510E9E54EB2}|18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj|e:\\dotnetc-\\learningcsharp\\18-partialclassandmethod\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +172,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,72 +180,222 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\12-Deconstructors\\Program.cs",
-              "RelativeDocumentMoniker": "12-Deconstructors\\Program.cs",
-              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\12-Deconstructors\\Program.cs",
-              "RelativeToolTip": "12-Deconstructors\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCAAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\20-Task Parallel Library (TPL)\\Program.cs",
+              "RelativeDocumentMoniker": "20-Task Parallel Library (TPL)\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\20-Task Parallel Library (TPL)\\Program.cs",
+              "RelativeToolTip": "20-Task Parallel Library (TPL)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T21:36:14.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AgeTooSmallException.cs",
-              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\AgeTooSmallException.cs",
-              "RelativeDocumentMoniker": "11-userDefineException\\AgeTooSmallException.cs",
-              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\AgeTooSmallException.cs",
-              "RelativeToolTip": "11-userDefineException\\AgeTooSmallException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T21:22:26.34Z",
+              "WhenOpened": "2025-11-23T09:05:08.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\Program.cs",
-              "RelativeDocumentMoniker": "11-userDefineException\\Program.cs",
-              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\Program.cs",
-              "RelativeToolTip": "11-userDefineException\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\19-LINQ\\Student.cs",
+              "RelativeDocumentMoniker": "19-LINQ\\Student.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\19-LINQ\\Student.cs",
+              "RelativeToolTip": "19-LINQ\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T21:20:27.218Z",
+              "WhenOpened": "2025-11-23T08:56:55.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\19-LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "19-LINQ\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\19-LINQ\\Program.cs",
+              "RelativeToolTip": "19-LINQ\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:42:47.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FilesHandling.cs",
-              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\FilesHandling.cs",
-              "RelativeDocumentMoniker": "10-FileHandling\\FilesHandling.cs",
-              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\FilesHandling.cs",
-              "RelativeToolTip": "10-FileHandling\\FilesHandling.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "18-PartialClassAndMethod\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "18-PartialClassAndMethod\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T21:08:31.162Z",
+              "WhenOpened": "2025-11-23T07:55:22.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\App.config",
+              "RelativeDocumentMoniker": "18-PartialClassAndMethod\\App.config",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\App.config",
+              "RelativeToolTip": "18-PartialClassAndMethod\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-23T07:53:17.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\Program.cs",
-              "RelativeDocumentMoniker": "10-FileHandling\\Program.cs",
-              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\Program.cs",
-              "RelativeToolTip": "10-FileHandling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T20:47:11.888Z",
+              "Title": "18-PartialClassAndMethod",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj",
+              "RelativeDocumentMoniker": "18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj",
+              "RelativeToolTip": "18-PartialClassAndMethod\\18-PartialClassAndMethod.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-23T07:53:09.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "PartialMethod.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\PartialMethod.cs",
+              "RelativeDocumentMoniker": "18-PartialClassAndMethod\\PartialMethod.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\PartialMethod.cs",
+              "RelativeToolTip": "18-PartialClassAndMethod\\PartialMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:43:24.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PartialClass.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\PartialClass.cs",
+              "RelativeDocumentMoniker": "18-PartialClassAndMethod\\PartialClass.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\PartialClass.cs",
+              "RelativeToolTip": "18-PartialClassAndMethod\\PartialClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:39:53.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\Program.cs",
+              "RelativeDocumentMoniker": "18-PartialClassAndMethod\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\18-PartialClassAndMethod\\Program.cs",
+              "RelativeToolTip": "18-PartialClassAndMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:39:30.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\17-Anonymous Types\\Program.cs",
+              "RelativeDocumentMoniker": "17-Anonymous Types\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\17-Anonymous Types\\Program.cs",
+              "RelativeToolTip": "17-Anonymous Types\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:30:24.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PropertiesAndConstructor.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\16-Expression bodied Members\\PropertiesAndConstructor.cs",
+              "RelativeDocumentMoniker": "16-Expression bodied Members\\PropertiesAndConstructor.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\16-Expression bodied Members\\PropertiesAndConstructor.cs",
+              "RelativeToolTip": "16-Expression bodied Members\\PropertiesAndConstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:20:55.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\16-Expression bodied Members\\Program.cs",
+              "RelativeDocumentMoniker": "16-Expression bodied Members\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\16-Expression bodied Members\\Program.cs",
+              "RelativeToolTip": "16-Expression bodied Members\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:03:34.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\15-Lambda Expressions\\Program.cs",
+              "RelativeDocumentMoniker": "15-Lambda Expressions\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\15-Lambda Expressions\\Program.cs",
+              "RelativeToolTip": "15-Lambda Expressions\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:50:26.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\14-Anonymous Methods\\Program.cs",
+              "RelativeDocumentMoniker": "14-Anonymous Methods\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\14-Anonymous Methods\\Program.cs",
+              "RelativeToolTip": "14-Anonymous Methods\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:43:17.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MultiCastDelegate.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\13-Delegate\\MultiCastDelegate.cs",
+              "RelativeDocumentMoniker": "13-Delegate\\MultiCastDelegate.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\13-Delegate\\MultiCastDelegate.cs",
+              "RelativeToolTip": "13-Delegate\\MultiCastDelegate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:36:47.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\13-Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "13-Delegate\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\13-Delegate\\Program.cs",
+              "RelativeToolTip": "13-Delegate\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:25:16.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DirectoryHandling.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\DirectoryHandling.cs",
               "RelativeDocumentMoniker": "10-FileHandling\\DirectoryHandling.cs",
@@ -191,16 +407,69 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgeTooSmallException.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\AgeTooSmallException.cs",
+              "RelativeDocumentMoniker": "11-userDefineException\\AgeTooSmallException.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\AgeTooSmallException.cs",
+              "RelativeToolTip": "11-userDefineException\\AgeTooSmallException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:22:26.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\Program.cs",
+              "RelativeDocumentMoniker": "11-userDefineException\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\11-userDefineException\\Program.cs",
+              "RelativeToolTip": "11-userDefineException\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:20:27.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\12-Deconstructors\\Program.cs",
+              "RelativeDocumentMoniker": "12-Deconstructors\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\12-Deconstructors\\Program.cs",
+              "RelativeToolTip": "12-Deconstructors\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:36:14.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilesHandling.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\FilesHandling.cs",
+              "RelativeDocumentMoniker": "10-FileHandling\\FilesHandling.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\FilesHandling.cs",
+              "RelativeToolTip": "10-FileHandling\\FilesHandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:08:31.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "10-FileHandling\\Program.cs",
+              "ToolTip": "E:\\DotNetC-\\LearningCSharp\\10-FileHandling\\Program.cs",
+              "RelativeToolTip": "10-FileHandling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:47:11.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "GenericConstraints.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\09-Generics\\GenericConstraints.cs",
               "RelativeDocumentMoniker": "09-Generics\\GenericConstraints.cs",
@@ -208,12 +477,11 @@
               "RelativeToolTip": "09-Generics\\GenericConstraints.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAxwBYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T20:33:50.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T20:33:50.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "WithGenerics.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\09-Generics\\WithGenerics.cs",
               "RelativeDocumentMoniker": "09-Generics\\WithGenerics.cs",
@@ -221,12 +489,11 @@
               "RelativeToolTip": "09-Generics\\WithGenerics.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T20:26:15.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T20:26:15.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "GenericClass.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\09-Generics\\GenericClass.cs",
               "RelativeDocumentMoniker": "09-Generics\\GenericClass.cs",
@@ -234,12 +501,11 @@
               "RelativeToolTip": "09-Generics\\GenericClass.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T20:35:20.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T20:35:20.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "withoutGenerics.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\09-Generics\\withoutGenerics.cs",
               "RelativeDocumentMoniker": "09-Generics\\withoutGenerics.cs",
@@ -247,12 +513,11 @@
               "RelativeToolTip": "09-Generics\\withoutGenerics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T20:22:19.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T20:22:19.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\09-Generics\\Program.cs",
               "RelativeDocumentMoniker": "09-Generics\\Program.cs",
@@ -260,12 +525,11 @@
               "RelativeToolTip": "09-Generics\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwCcAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T20:20:30.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T20:20:30.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "Abstraction.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\05-OOPs\\Abstraction.cs",
               "RelativeDocumentMoniker": "05-OOPs\\Abstraction.cs",
@@ -273,12 +537,11 @@
               "RelativeToolTip": "05-OOPs\\Abstraction.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwCsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T20:09:35.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T20:09:35.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\07-Upcasting_Downcasting\\Program.cs",
               "RelativeDocumentMoniker": "07-Upcasting_Downcasting\\Program.cs",
@@ -286,12 +549,11 @@
               "RelativeToolTip": "07-Upcasting_Downcasting\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAkwCkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T19:36:34.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T19:36:34.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\07-AS_Is\\Program.cs",
               "RelativeDocumentMoniker": "07-AS_Is\\Program.cs",
@@ -303,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 32,
               "Title": "Encapsulation.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\05-OOPs\\Encapsulation.cs",
               "RelativeDocumentMoniker": "05-OOPs\\Encapsulation.cs",
@@ -311,12 +573,11 @@
               "RelativeToolTip": "05-OOPs\\Encapsulation.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:59:38.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:59:38.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\06-MethodHiding\\Program.cs",
               "RelativeDocumentMoniker": "06-MethodHiding\\Program.cs",
@@ -324,12 +585,11 @@
               "RelativeToolTip": "06-MethodHiding\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:59:06.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:59:06.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\05-OOPs\\Program.cs",
               "RelativeDocumentMoniker": "05-OOPs\\Program.cs",
@@ -337,12 +597,11 @@
               "RelativeToolTip": "05-OOPs\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAcwCYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:58:29.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:58:29.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\04-ExtensionMethod\\Program.cs",
               "RelativeDocumentMoniker": "04-ExtensionMethod\\Program.cs",
@@ -350,12 +609,11 @@
               "RelativeToolTip": "04-ExtensionMethod\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:46:28.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:46:28.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "ExtensionMethods.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\04-ExtensionMethod\\ExtensionMethods.cs",
               "RelativeDocumentMoniker": "04-ExtensionMethod\\ExtensionMethods.cs",
@@ -363,12 +621,11 @@
               "RelativeToolTip": "04-ExtensionMethod\\ExtensionMethods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:47:11.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:47:11.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "CodeQuestions.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\03-String\\CodeQuestions.cs",
               "RelativeDocumentMoniker": "03-String\\CodeQuestions.cs",
@@ -376,12 +633,11 @@
               "RelativeToolTip": "03-String\\CodeQuestions.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:32:55.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:32:55.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 38,
               "Title": "AddElement.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\03-String\\AddElement.cs",
               "RelativeDocumentMoniker": "03-String\\AddElement.cs",
@@ -389,12 +645,11 @@
               "RelativeToolTip": "03-String\\AddElement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:24:54.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:24:54.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 37,
               "Title": "SizeOf.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\03-String\\SizeOf.cs",
               "RelativeDocumentMoniker": "03-String\\SizeOf.cs",
@@ -402,12 +657,11 @@
               "RelativeToolTip": "03-String\\SizeOf.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:20:46.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:20:46.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\03-String\\Program.cs",
               "RelativeDocumentMoniker": "03-String\\Program.cs",
@@ -415,12 +669,11 @@
               "RelativeToolTip": "03-String\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:15:22.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:15:22.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNetC-\\LearningCSharp\\01-Datatypes\\Program.cs",
               "RelativeDocumentMoniker": "01-Datatypes\\Program.cs",
@@ -428,8 +681,7 @@
               "RelativeToolTip": "01-Datatypes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:03:19.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:03:19.376Z"
             }
           ]
         }

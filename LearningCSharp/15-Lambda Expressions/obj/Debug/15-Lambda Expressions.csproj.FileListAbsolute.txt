@@ -1,0 +1,8 @@
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\bin\Debug\15-Lambda Expressions.exe.config
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\bin\Debug\15-Lambda Expressions.exe
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\bin\Debug\15-Lambda Expressions.pdb
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\obj\Debug\15-Lambda Expressions.csproj.AssemblyReference.cache
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\obj\Debug\15-Lambda Expressions.csproj.CoreCompileInputs.cache
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\obj\Debug\15-Lambda Expressions.exe
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\obj\Debug\15-Lambda Expressions.pdb
+E:\DotNetC-\LearningCSharp\15-Lambda Expressions\obj\Debug\15-Lambda Expressions.exe.config
